@@ -6,4 +6,6 @@ Olá! seja bem-vindo(a) ao GitHub da WaifuMC, veja mais informações a baixo.
 - [@rosiee-sz](https://github.com/rosiee-sz)
 
 ## Patchnotes
-> Inicamos o recode da base do servidor - erros de chat possivelmente arrumados.
+### 29/07/22 - Recode & Discord BOT
+- Recode da WaifuMC iniciado.
+- Desenvolvimento do BOT iniciado.
